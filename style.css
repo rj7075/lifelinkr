@@ -675,7 +675,7 @@ input[type="tel"] {
   nav {
     /* flex-direction: row; */
     display: flex;
-    padding: 10px;
+    padding: 30px;
   }
   /* .menu {
     width: 100%;
